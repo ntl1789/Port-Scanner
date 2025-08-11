@@ -1,6 +1,5 @@
 import nmap
 import socket
-import dicttoxml
 
 class ScanResults():
     
