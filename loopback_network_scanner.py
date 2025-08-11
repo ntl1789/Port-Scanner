@@ -61,7 +61,8 @@ scan_results = {
                                                             'product': '', 
                                                             'version': '', 
                                                             'extrainfo': '', 
-                                                            'conf': '3', 'cpe': ''
+                                                            'conf': '3', 
+                                                            'cpe': ''
                                                         }
                                             }
                                     } 
